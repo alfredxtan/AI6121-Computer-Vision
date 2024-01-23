@@ -6,4 +6,4 @@ the translation in both directions (from MNIST to SVHN and vice versa).
 In the second part of the project, we performed UDA between MNIST and USPS datasets, with the source images as MNIST and target images as USPS.
 This allows us to make use of the labelled USPS dataset to train a classifier for unlabelled MNIST images.
 
-Acknowledgement of the codes are in the final report.
+Acknowledgements of the codes are in the final report.
